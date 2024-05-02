@@ -14,7 +14,10 @@
 
 
 ## Socials:
-<a href="https://facebook.com/pinguinos.enojados" style="color:blue"><i class="fab fa-facebook fa-2x"></i></a>
+<a href="https://web.facebook.com/ACMUNSAAC/?locale=es_LA&_rdc=1&_rdr">
+  <img src="square-facebook.svg" alt="Icono" width="50" height="50" style="fill:red;">
+</a>
+
 
 # Researchers:
 
