@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
-# <center> ACM Intelligence </center>
+# <center> ACM Investigation </center>
 
 <p align="center">
   <img src="https://i.imgur.com/WXwfncf.png" alt="AcmAI"> 
@@ -47,7 +47,7 @@
 | [luzzka](https://github.com/luzzka) | <img src="https://github.com/luzzka.png?size=50" width="50" height="50" style="border-radius: 50%;"> | [alfinthemoon123](https://github.com/alfinthemoon123) | <img src="https://github.com/alfinthemoon123.png?size=50" width="50" height="50" style="border-radius: 50%;"> | [jusferal](https://github.com/jusferal) | <img src="https://github.com/jusferal.png?size=50" width="50" height="50" style="border-radius: 50%;"> |
 | [FabricioYared](https://github.com/FabricioYared) | <img src="https://github.com/FabricioYared.png?size=50" width="50" height="50" style="border-radius: 50%;"> | [Winnny404](https://github.com/Winnny404) | <img src="https://github.com/Winnny404.png?size=50" width="50" height="50" style="border-radius: 50%;"> | [gillyphuu](https://github.com/gillyphuu) | <img src="https://github.com/gillyphuu.png?size=50" width="50" height="50" style="border-radius: 50%;"> |
 
-# Projects:
+
 
 
 # <i class="fas fa-trophy" style="color:cyan"></i> GitHub Stats:
