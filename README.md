@@ -3,7 +3,7 @@
 # <center> ACM Intelligence </center>
 
 <p align="center">
-  <img src="acmAI.png" alt="AcmAI"> 
+  <img src="https://i.imgur.com/WXwfncf.png" alt="AcmAI"> 
 </p>
 
 # About:
@@ -15,8 +15,28 @@
 
 ## Socials:
 <a href="https://web.facebook.com/ACMUNSAAC/?locale=es_LA&_rdc=1&_rdr">
-  <img src="square-facebook.svg" alt="Icono" width="50" height="50" style="fill:red;">
+  <img src="https://i.imgur.com/iRoA2cy.png" alt="Icono" width="50" height="50" style="fill:red;">
 </a>
+
+
+### Repositories:
+[![ACM](https://img.shields.io/badge/ACM-Association_for_Computing_Machinery-informational?style=flat&logo=acm&logoColor=white)](https://www.acm.org/)
+[![Springer](https://img.shields.io/badge/Springer-informational?style=flat&logo=springer&logoColor=white)](https://www.springer.com/la)
+[![IEEE Xplore](https://img.shields.io/badge/IEEE_Xplore-informational?style=flat&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/Xplore/home.jsp)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-informational?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.es/)
+
+
+# Research:
+## [Dogs-and-cats](https://github.com/acm-ai/Dogs-and-cats)
+[![usuario1](https://github.com/gatonymous.png?size=50)](https://github.com/gatonymous)
+[![usuario1](https://github.com/luzzka.png?size=50)](https://github.com/luzzka)
+[![usuario1](https://github.com/alfinthemoon123.png?size=50)](https://github.com/alfinthemoon123)
+[![usuario1](https://github.com/gillyphuu.png?size=50)](https://github.com/gillyphuu)
+![image](https://github.com/acm-ai/acm-ai/assets/168693285/33e9290e-4462-43d2-816b-1983a819eabb)
+<!--[![usuario2](https://github.com/Shaiel7.png?size=50)](https://github.com/Shaiel7)-->
+<!--[![usuario1](https://github.com/Gustav1503.png?size=50)](https://github.com/Gustav1503)-->
+<!--[![usuario1](https://github.com/jusferal.png?size=50)](https://github.com/jusferal)-->
+<!--[![usuario1](https://github.com/FabricioYared.png?size=50)](https://github.com/FabricioYared)-->
 
 
 # Researchers:
