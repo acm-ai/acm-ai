@@ -40,10 +40,6 @@
 
 # Researchers:
 
-# Lista de Usuarios de GitHub
-
-A continuación, se presenta una lista de usuarios con sus nombres y fotos de perfil en 9 columnas y 2 filas:
-
 <table>
   <tr>
     <td align="center">
