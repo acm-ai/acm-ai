@@ -29,7 +29,6 @@
 # Research:
 ## [Dogs-and-cats](https://github.com/acm-ai/Dogs-and-cats)
 [![usuario1](https://github.com/gatonymous.png?size=50)](https://github.com/gatonymous)
-[![usuario1](https://github.com/luzzka.png?size=50)](https://github.com/luzzka)
 [![usuario1](https://github.com/alfinthemoon123.png?size=50)](https://github.com/alfinthemoon123)
 [![usuario1](https://github.com/gillyphuu.png?size=50)](https://github.com/gillyphuu)
 ![image](https://github.com/acm-ai/acm-ai/assets/168693285/33e9290e-4462-43d2-816b-1983a819eabb)
@@ -41,11 +40,126 @@
 
 # Researchers:
 
-|  |  |  |  |  |  |
-|---------|----------------|---------|----------------|---------|----------------|
-| [gatonymous](https://github.com/gatonymous) | <img src="https://github.com/gatonymous.png?size=50" width="50" height="50" style="border-radius: 50%;"> | [Shaiel7](https://github.com/Shaiel7) | <img src="https://github.com/Shaiel7.png?size=50" width="50" height="50" style="border-radius: 50%;"> | [Gustav1503](https://github.com/Gustav1503) | <img src="https://github.com/Gustav1503.png?size=50" width="50" height="50" style="border-radius: 50%;"> |
-| [luzzka](https://github.com/luzzka) | <img src="https://github.com/luzzka.png?size=50" width="50" height="50" style="border-radius: 50%;"> | [alfinthemoon123](https://github.com/alfinthemoon123) | <img src="https://github.com/alfinthemoon123.png?size=50" width="50" height="50" style="border-radius: 50%;"> | [jusferal](https://github.com/jusferal) | <img src="https://github.com/jusferal.png?size=50" width="50" height="50" style="border-radius: 50%;"> |
-| [FabricioYared](https://github.com/FabricioYared) | <img src="https://github.com/FabricioYared.png?size=50" width="50" height="50" style="border-radius: 50%;"> | [Winnny404](https://github.com/Winnny404) | <img src="https://github.com/Winny404.png?size=50" width="50" height="50" style="border-radius: 50%;"> | [gillyphuu](https://github.com/gillyphuu) | <img src="https://github.com/gillyphuu.png?size=50" width="50" height="50" style="border-radius: 50%;"> |
+# Lista de Usuarios de GitHub
+
+A continuación, se presenta una lista de usuarios con sus nombres y fotos de perfil en 9 columnas y 2 filas:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/gatonymous">
+        <img src="https://github.com/gatonymous.png" width="100px;" alt="Foto de gatonymous"/><br />
+        <sub><b>Whyl</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/alfinthemoon123">
+        <img src="https://github.com/alfinthemoon123.png" width="100px;" style="border-radius: 50%;" alt="Foto de alfinthemoon123"/><br />
+        <sub><b>alfinthemoon123</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gillyphuu">
+        <img src="https://github.com/gillyphuu.png" width="100px;" alt="Foto de gillyphuu"/><br />
+        <sub><b>gillyphuu</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/FabricioYared">
+        <img src="https://github.com/FabricioYared.png" width="100px;" alt="Foto de FabricioYared"/><br />
+        <sub><b>FabricioYared</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Gustav1503">
+        <img src="https://github.com/Gustav1503.png" width="100px;" alt="Foto de Gustav1503"/><br />
+        <sub><b>Gustav1503</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Winny404">
+        <img src="https://github.com/Winny404.png" width="100px;" alt="Foto de Winny404"/><br />
+        <sub><b>Winny404</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/usuario7">
+        <img src="https://github.com/usuario7.png" width="100px;" alt="Foto de usuario7"/><br />
+        <sub><b>usuario7</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/usuario8">
+        <img src="https://github.com/usuario8.png" width="100px;" alt="Foto de usuario8"/><br />
+        <sub><b>usuario8</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/usuario9">
+        <img src="https://github.com/usuario9.png" width="100px;" alt="Foto de usuario9"/><br />
+        <sub><b>usuario9</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/usuario10">
+        <img src="https://github.com/usuario10.png" width="100px;" alt="Foto de usuario10"/><br />
+        <sub><b>usuario10</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/usuario11">
+        <img src="https://github.com/usuario11.png" width="100px;" alt="Foto de usuario11"/><br />
+        <sub><b>usuario11</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/usuario12">
+        <img src="https://github.com/usuario12.png" width="100px;" alt="Foto de usuario12"/><br />
+        <sub><b>usuario12</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/usuario13">
+        <img src="https://github.com/usuario13.png" width="100px;" alt="Foto de usuario13"/><br />
+        <sub><b>usuario13</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/usuario14">
+        <img src="https://github.com/usuario14.png" width="100px;" alt="Foto de usuario14"/><br />
+        <sub><b>usuario14</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/usuario15">
+        <img src="https://github.com/usuario15.png" width="100px;" alt="Foto de usuario15"/><br />
+        <sub><b>usuario15</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/usuario16">
+        <img src="https://github.com/usuario16.png" width="100px;" alt="Foto de usuario16"/><br />
+        <sub><b>usuario16</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/usuario17">
+        <img src="https://github.com/usuario17.png" width="100px;" alt="Foto de usuario17"/><br />
+        <sub><b>usuario17</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/usuario18">
+        <img src="https://github.com/usuario18.png" width="100px;" alt="Foto de usuario18"/><br />
+        <sub><b>usuario18</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 
 
