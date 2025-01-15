@@ -2,9 +2,7 @@
 
 # <center> ACM Investigation </center>
 
-<p align="center">
-  <img src="https://i.imgur.com/WXwfncf.png" alt="AcmAI"> 
-</p>
+
 
 # About:
 <center>¡Bienvenidos a la rama de investigación en Inteligencia Artificial de nuestro círculo de estudios! Nos dedicamos a explorar las fronteras de la IA, desde algoritmos de aprendizaje profundo hasta sistemas inteligentes aplicados. Nuestro objetivo es impulsar el conocimiento y la innovación en este emocionante campo, mediante proyectos de investigación que aborden problemas reales y promuevan el desarrollo de soluciones inteligentes.</center>
@@ -13,10 +11,6 @@
 
 
 
-## Socials:
-<a href="https://web.facebook.com/ACMUNSAAC/?locale=es_LA&_rdc=1&_rdr">
-  <img src="https://i.imgur.com/iRoA2cy.png" alt="Icono" width="50" height="50" style="fill:red;">
-</a>
 
 
 ### Repositories:
@@ -80,78 +74,17 @@
     </td>
     <td align="center">
       <a href="https://github.com/usuario7">
-        <img src="https://github.com/usuario7.png" width="100px;" alt="Foto de usuario7"/><br />
-        <sub><b>usuario7</b></sub>
+        <img src="https://github.com/SandroAlexander.png" width="100px;" alt="Foto de SandroAlexander"/><br />
+        <sub><b>SandroAlexander</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/usuario8">
-        <img src="https://github.com/usuario8.png" width="100px;" alt="Foto de usuario8"/><br />
-        <sub><b>usuario8</b></sub>
+      <a href="https://github.com/usuario7">
+        <img src="https://github.com/PaulAndre1.png" width="100px;" alt="Foto de PaulAndre1"/><br />
+        <sub><b>PaulAndre1</b></sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/usuario9">
-        <img src="https://github.com/usuario9.png" width="100px;" alt="Foto de usuario9"/><br />
-        <sub><b>usuario9</b></sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/usuario10">
-        <img src="https://github.com/usuario10.png" width="100px;" alt="Foto de usuario10"/><br />
-        <sub><b>usuario10</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/usuario11">
-        <img src="https://github.com/usuario11.png" width="100px;" alt="Foto de usuario11"/><br />
-        <sub><b>usuario11</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/usuario12">
-        <img src="https://github.com/usuario12.png" width="100px;" alt="Foto de usuario12"/><br />
-        <sub><b>usuario12</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/usuario13">
-        <img src="https://github.com/usuario13.png" width="100px;" alt="Foto de usuario13"/><br />
-        <sub><b>usuario13</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/usuario14">
-        <img src="https://github.com/usuario14.png" width="100px;" alt="Foto de usuario14"/><br />
-        <sub><b>usuario14</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/usuario15">
-        <img src="https://github.com/usuario15.png" width="100px;" alt="Foto de usuario15"/><br />
-        <sub><b>usuario15</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/usuario16">
-        <img src="https://github.com/usuario16.png" width="100px;" alt="Foto de usuario16"/><br />
-        <sub><b>usuario16</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/usuario17">
-        <img src="https://github.com/usuario17.png" width="100px;" alt="Foto de usuario17"/><br />
-        <sub><b>usuario17</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/usuario18">
-        <img src="https://github.com/usuario18.png" width="100px;" alt="Foto de usuario18"/><br />
-        <sub><b>usuario18</b></sub>
-      </a>
-    </td>
+    
   </tr>
 </table>
 
